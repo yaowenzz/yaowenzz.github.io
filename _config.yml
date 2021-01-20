@@ -19,4 +19,8 @@ github:
 title: Yaowen Zheng
 description: Yaowen Zheng's website
 
-google_analytics: UA-78697215-1
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-78697215-1"
+    anonymize_ip: false # default
