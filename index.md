@@ -10,7 +10,7 @@ A **22** yrs old young, happy ~~researcher~~ PhD student who is ~~dedicating to 
 
 Interested in better understanding ~~the surface melting of Antarctic Ice Sheet~~ Who am I? Where did I come from? Where am I going?
 
-I sometimes [<img src="/assets/ins.png" style="max-height: 40px">](https://www.instagram.com/yaowenzzzzzzz) but don't really [<img src="/assets/twitter.png" style="max-height: 40px">](https://twitter.com/yaowen_zheng) but sure I will follow u back :) 
+I sometimes  [<img src="/assets/ins.png" style="max-height: 40px">](https://www.instagram.com/yaowenzzzzzzz)  but don't really [<img src="/assets/twitter.png" style="max-height: 40px">](https://twitter.com/yaowen_zheng) but sure I will follow u back :) 
 
 <a href="assets/YZ_CV.pdf">Download my CV</a> or [Link to my CV](./cv.html). 
 
