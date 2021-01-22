@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) 
+<img src="/assets/images/yz.jpg" style="max-height: 400px">   
 
 **Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
 
