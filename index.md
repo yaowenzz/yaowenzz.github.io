@@ -4,11 +4,11 @@ layout: default
 
 <img align="left" src="/assets/yz.png" style="max-height: 120px"> 
 
-A 22 yrs old young, happy ~~researcher~~ PhD student who is ~~dedicating to scientific career~~ having fun with uni life xD
+A **22** yrs old young, happy ~~researcher~~ PhD student who is ~~dedicating to scientific career~~ having fun with uni life xD
 
 Interested in better understanding ~~the surface melting of Antarctic Ice Sheet~~ Who am I? Where did I come from? Where am I going? 
 
-Tex **bold**, _italic_, or ~~strikethrough~~.
+
 
 <a href="assets/YZ_CV.pdf">Download my CV</a> or [Link to my CV](./cv.html). 
 
