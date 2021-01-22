@@ -3,7 +3,11 @@ layout: default
 ---
 
 
-<img src="/assets/yz.png" style="max-height: 80px">   **Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
+<img src="/assets/yz.png" style="max-height: 80px">   
+
+* * *
+
+**Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
 
 
 * * *
