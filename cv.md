@@ -4,7 +4,9 @@ layout: default
 
 * * *
 
-<img align="left" src="/assets/yz.png" style="max-height: 120px">   **Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
+<img align="left" src="/assets/yz.png" style="max-height: 120px">   
+
+**Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
 
 **Climate Change Research Centre, University of New South Wales, Sydney, Australia**
 
