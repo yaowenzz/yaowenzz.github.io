@@ -4,7 +4,7 @@ layout: default
 
 Tex **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to my CV](./cv.html).
+<a href="assets/YZ_CV.pdf">Download my CV</a> or [Link to my CV](./cv.html). 
 
 There should be whitespace between paragraphs.
 
