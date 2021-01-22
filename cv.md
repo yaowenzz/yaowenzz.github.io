@@ -12,8 +12,6 @@ layout: default
 
 **Climate Change Research Centre, University of New South Wales, Sydney, New South Wales, Australia**
 
-&nbsp;
-
 * * *
 
 - **Former Affiliations**
@@ -86,12 +84,12 @@ _Zheng, Y., Phipps, S., Roberts, J. and Jong, L.M. (2020). Extending and underst
 ## SKILLS
 
 - **Numerical Computing & Data Processing**
-  - Julia | Matlab | CDO
+  - Julia, Matlab, CDO
 - **Statistical Analysis & Modelling**
-  - R | Matlab
+  - R, Matlab
 - **Data Visualization**
-  - Julia | Matlab | R | Python
+  - Julia, Matlab, R, Python
 - **Academic Writing & Manuscript Formatting**
-  - LaTeX | BibTeX | Overleaf | R Markdown | Zotero | Microsoft Word
+  - LaTeX, BibTeX, Overleaf, R Markdown, Zotero, Microsoft Word
 
 [back](./)
