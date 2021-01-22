@@ -4,7 +4,7 @@ layout: default
 
 <img align="left" src="/assets/yz.png" style="max-height: 120px"> 
 
-A 22 yrs old young, happy ~~researcher~~ PhD student who is ~~dedicating to scientific career~~ having fun with uni life.
+A 22 yrs old young, happy ~~researcher~~ PhD student who is ~~dedicating to scientific career~~ having fun with uni life xD
 
 
 Tex **bold**, _italic_, or ~~strikethrough~~.
