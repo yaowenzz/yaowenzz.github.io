@@ -2,91 +2,69 @@
 layout: default
 ---
 
-Tex **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+**Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
 
-There should be whitespace between paragraphs.
-
-A
-
-# Header 1
-
-This 
-
-## Header 2
-
-> blockquote .
->
-> When.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered .
-*   This is an unordered list .
-
-##### Header 5
-
-1.  This is an ordered list .
-3.  This is an ordered list .
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good              | nice  |
-| out of stock | good aaaaaaaaaa   | nice  |
-| ok           | good `o.  s`      | hmm   |
-| ok           | good `zaaae` drop | yumm  |
-
-### There's a horizontal rule .
 
 * * *
 
-### Here is an unordered list:
+## EDUCATION
 
-*   Item foo
-*   Item bar
+**Victoria University of Wellington** 
 
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
+    Doctor of Philosophy, Geophysics                     
+    2020 - present 
 
 
-### And a nested list:
+**University of Tasmania**  
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+    Bachelor of Marine and Antarctic Science (Physical Oceanography/ Mathematics) with First Class Honours
+    2018 - 2020  GPA: 6.06/7.00
+    
+**Ocean Univeristy of China**
+
+    Bachelor of Science, Marine Science (Physical Oceanography)
+    2016 - 2020  GPA: 3.23/4.00
+
+* * *
+
+## ACADEMIC EXPERIENCE
+
+**University of New South Wales**
+
+    Visiting Academic, Climate Change Research Centre
+    2020 - present
+
+**University of Tasmania**
+
+    Honours research(First Class)^
+    ^Extending and understanding the South West Western Australia rainfall record using the Dome Summit South ice core, East Antarctica
+
+_Zheng, Y., Phipps, S., Roberts, J. and Jong, L.M. (2020). Extending and understanding the South West Western Australian rainfall record using the Dome Summit South ice core, East Antarctica. Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (UTAS). doi:10.25959/5f4c50b7b661f_
+
+* * *
+
+## PUBLICATIONS 
+
+**Zheng, Y.**, Jong, L. M., Phipps, S. J., Roberts, J. L., Moy, A. D., Curran, M. A. J., and van Ommen, T. D.: Extending and understanding the South West Western Australian rainfall record using a snowfall reconstruction from Law Dome, East Antarctica, Clim. Past Discuss. [preprint], https://doi.org/10.5194/cp-2020-124, in review, 2020.
+
+**Zheng, Y.**, Phipps, S., Roberts, J. and Jong, L.M. (2020). Extending and understanding the South West Western Australian rainfall record using the Dome Summit South ice core, East Antarctica. Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (UTAS). doi:10.25959/5f4c50b7b661f
+
+* * *
+
+## AWARDS
+
+2020 Feb **$4,193** Tasmanian International Scholarship 
+
+2019 Jul **$3,993** Tasmanian International Scholarship
+
+2019 Feb **$3,781** Tasmanian International Scholarship
+
+2017 Sep **¥1,000**   Second Class Scholarship
+
+2017 Sep **¥600** Excellence in Artistic and Athletic Performance
+
+2017 Sep **¥600** Participation in Social Activities
 
 ### Small image
 
