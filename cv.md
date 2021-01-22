@@ -45,14 +45,20 @@ layout: default
 **University of New South Wales**
 
     Visiting Academic, Climate Change Research Centre
-    2020 - present
+    Nov, 2020 - Feb, 2021
 
 **University of Tasmania**
 
     Honours research(First Class)^
     ^Extending and understanding the South West Western Australia rainfall record using the Dome Summit South ice core, East Antarctica
+    Aug, 2019 - Aug, 2020
 
 _Zheng, Y., Phipps, S., Roberts, J. and Jong, L.M. (2020). Extending and understanding the South West Western Australian rainfall record using the Dome Summit South ice core, East Antarctica. Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (UTAS). doi:10.25959/5f4c50b7b661f_
+
+**Ocean University of China**
+
+    Laboratory Assistant, College of Oceanic and Atmospheric Science
+    Sep, 2017 - Jun,2018
 
 * * *
 
@@ -66,18 +72,20 @@ _Zheng, Y., Phipps, S., Roberts, J. and Jong, L.M. (2020). Extending and underst
 
 * * *
 
-## AWARDS
+## AWARDS & GRANTS & SCHOLARSHIPS
 
-| Awards                                        | Year | Grant      |
-|:----------------------------------------------|:-----|:-----------|
-|Tasmanian International Scholarship            | 2020 | **$4,193** |
-|Tasmanian International Scholarship            | 2019 | **$3,993** |
-|Tasmanian International Scholarship            | 2019 | **$3,781** |
-|Second Class Scholarship                       | 2017 | **¥1,000** | 
-|Excellence in Artistic and Athletic Performance| 2017 | **¥600**   |
-|Participation in Social Activities             | 2017 | **¥600**   |
+| Award                                               |Affiliation              | Year          | Grant             |
+|:----------------------------------------------------|:------------------------|:--------------|:------------------|
+|Rutherford Discovery Fellowship Scholarship          |Royal Society Te Apārangi| 2020 - present| **27,500 NZD/yr** |
+|Tasmanian International Scholarship                  |University of Tasmania   | 2020          | **4,193 AUD**     |
+|Tasmanian International Scholarship                  |University of Tasmania   | 2019          | **3,993 AUD**     |
+|Tasmanian International Scholarship                  |University of Tasmania   | 2019          | **3,781 AUD**     |
+|Second Class Scholarship                             |Ocean University of China| 2017          | **1,000 CNY**     | 
+|Excellence in Artistic and Athletic Performance      |Ocean University of China| 2017          | **600 CNY**       |
+|Participation in Social Activities                   |Ocean University of China| 2017          | **600 CNY**       |
+|The 3rd Prize of Championship in Experimental Science|Beijing Normal University| 2017          | -                 |
+|The 3rd Prize of Championship in Experimental Science|Beijing Normal University| 2016          | -                 |
 
-**Total**: ~**$12,407**
 
 * * *
 
