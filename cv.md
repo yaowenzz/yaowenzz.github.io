@@ -47,8 +47,10 @@ _Zheng, Y., Phipps, S., Roberts, J. and Jong, L.M. (2020). Extending and underst
 ## PUBLICATIONS 
 
 **Zheng, Y.**, Jong, L. M., Phipps, S. J., Roberts, J. L., Moy, A. D., Curran, M. A. J., and van Ommen, T. D.: Extending and understanding the South West Western Australian rainfall record using a snowfall reconstruction from Law Dome, East Antarctica, Clim. Past Discuss. [preprint], https://doi.org/10.5194/cp-2020-124, in review, 2020.
+[PDF](https://cp.copernicus.org/preprints/cp-2020-124/cp-2020-124.pdf)
 
 **Zheng, Y.**, Phipps, S., Roberts, J. and Jong, L.M. (2020). Extending and understanding the South West Western Australian rainfall record using the Dome Summit South ice core, East Antarctica. Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (UTAS). doi:10.25959/5f4c50b7b661f
+[PDF](https://data.imas.utas.edu.au/attachments/47848595-038b-46b3-ba75-6f52d5295a62/Thesis_Yaowen_ZHENG.pdf)
 
 * * *
 
