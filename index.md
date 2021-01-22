@@ -8,7 +8,7 @@ A **22** yrs old young, happy ~~researcher~~ PhD student who is ~~dedicating to 
 
 :arrow_left: photo from my Tasmanian Learner :sob: driver licence :oncoming_automobile:
 
-Interested in better understanding ~~the surface melting of Antarctic Ice Sheet~~ Who am I? Where did I come from? Where am I going? 
+Interested in better understanding ~~the surface melting of Antarctic Ice Sheet~~ Who am I? Where did I come from? Where am I going? lol
 
 
 
