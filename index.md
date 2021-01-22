@@ -2,14 +2,13 @@
 layout: default
 ---
 
-<img align="left" src="/assets/yz.png" style="max-height: 200px"> 
+<img align="left" src="/assets/yz.png" style="max-height: 120px"> 
 
 A **22** yrs old young, happy ~~researcher~~ PhD student who is ~~dedicating to scientific career~~ having fun with uni life xD
 
+<img src="/assets/arrowleft.png" style="max-height: 20px"> I am a good driver as you can see my ~~skillful~~ Learner :( driver licence 
+
 Interested in better understanding ~~the surface melting of Antarctic Ice Sheet~~ Who am I? Where did I come from? Where am I going?
-
-<img src="/assets/arrowleft.png" style="max-height: 40px"> photo from my Tasmanian Learner :( driver licence 
-
 
 I don't really [<img src="/assets/twitter.png" style="max-height: 40px">](https://twitter.com/yaowen_zheng) but I will follow u back :) 
 
