@@ -4,7 +4,7 @@ layout: default
 
 Tex **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to my cv](./another-page.html).
 
 There should be whitespace between paragraphs.
 
