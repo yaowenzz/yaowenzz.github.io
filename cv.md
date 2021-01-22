@@ -10,15 +10,15 @@ layout: default
 
 **Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
 
-**Climate Change Research Centre, University of New South Wales, Sydney, Australia**
+**Climate Change Research Centre, University of New South Wales, Sydney, New South Wales, Australia**
 
 &nbsp;
 
 * * *
 
-Former Affiliations
-
-
+- **Former Affiliations**
+  - Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania, Australia
+  - College of Oceanic and Atmospheric Sciences, Ocean University of China, Qingdao, Shandong, China
 
 * * *
 
