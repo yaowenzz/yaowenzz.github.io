@@ -6,7 +6,7 @@ layout: default
 
 A **22** yrs old young, happy ~~researcher~~ PhD student who is ~~dedicating to scientific career~~ having fun with uni life xD
 
-<img src="/assets/arrowleft.png" style="max-height: 20px"> I am a good driver as you can see my ~~skillful~~ Learner :( driver licence 
+<img src="/assets/arrowleft.png" style="max-height: 20px"> I am a good driver as you can see the photo of my ~~skillful~~ Learner :( driver licence 
 
 Interested in better understanding ~~the surface melting of Antarctic Ice Sheet~~ Who am I? Where did I come from? Where am I going?
 
