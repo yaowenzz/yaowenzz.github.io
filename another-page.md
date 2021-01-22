@@ -54,46 +54,17 @@ _Zheng, Y., Phipps, S., Roberts, J. and Jong, L.M. (2020). Extending and underst
 
 ## AWARDS
 
-2020 Feb **$4,193** Tasmanian International Scholarship 
+| Awards                                        | Year | Grant      |
+|:----------------------------------------------|:-----|:-----------|
+|Tasmanian International Scholarship            | 2020 | **$4,193** |
+|Tasmanian International Scholarship            | 2019 | **$3,993** |
+|Tasmanian International Scholarship            | 2019 | **$3,781** |
+|Second Class Scholarship                       | 2017 | **¥1,000** | 
+|Excellence in Artistic and Athletic Performance| 2017 | **¥600**   |
+|Participation in Social Activities             | 2017 | **¥600**   |
 
-2019 Jul **$3,993** Tasmanian International Scholarship
-
-2019 Feb **$3,781** Tasmanian International Scholarship
-
-2017 Sep **¥1,000**   Second Class Scholarship
-
-2017 Sep **¥600** Excellence in Artistic and Athletic Performance
-
-2017 Sep **¥600** Participation in Social Activities
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Total**: ~**$12,407**
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Y</dd>
-<dt>Born</dt>
-<dd>19</dd>
-<dt>Birthplace</dt>
-<dd>C</dd>
-<dt>Color</dt>
-<dd>B</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
 
 [back](./)
