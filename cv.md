@@ -8,6 +8,8 @@ layout: default
 
 &nbsp;
 
+<a href="assets/YZ_CV.pdf">Download CV</a>
+
 **Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
 
 **Climate Change Research Centre, University of New South Wales, Sydney, New South Wales, Australia**
