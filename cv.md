@@ -9,6 +9,11 @@ layout: default
 
 **Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
 
+**Climate Change Research Centre, University of New South Wales, Sydney, Australia**
+
+Former Affiliations
+
+
 
 * * *
 
@@ -71,6 +76,17 @@ _Zheng, Y., Phipps, S., Roberts, J. and Jong, L.M. (2020). Extending and underst
 
 **Total**: ~**$12,407**
 
+* * *
 
+## SKILLS
+
+- **Numerical Computing & Data Processing**
+  - Julia | Matlab | CDO
+- **Statistical Analysis & Modelling**
+  - R | Matlab
+- **Data Visualization**
+  - Julia | Matlab | R | Python
+- **Academic Writing & Manuscript Formatting**
+  - LaTeX | BibTeX | Overleaf | R Markdown | Zotero | Microsoft Word
 
 [back](./)
