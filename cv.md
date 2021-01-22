@@ -6,7 +6,6 @@ layout: default
 
 <img align="left" src="/assets/yz.png" style="max-height: 120px">   
 
-&nbsp;
 
 <a href="assets/YZ_CV.pdf">Download CV</a>
 
