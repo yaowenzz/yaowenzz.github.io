@@ -93,7 +93,7 @@ _Zheng, Y., Phipps, S., Roberts, J. and Jong, L.M. (2020). Extending and underst
 ## SKILLS
 
 - **Numerical Computing & Data Processing**
-  - Julia, Matlab, CDO
+  - Julia, Matlab, CDO, Ncview
 - **Statistical Analysis & Modelling**
   - R, Matlab
 - **Data Visualization**
