@@ -3,8 +3,7 @@ layout: default
 ---
 
 * * *
-
-
+<img src="/assets/RV001.jpeg" style="max-height: 60px">
 
 I am a **22** yo young, happy ~~researcher~~ PhD student who is ~~dedicating to scientific career~~ having fun with uni life xD
 
