@@ -4,11 +4,10 @@ layout: default
 
 * * *
 
-<img align="left" src="/assets/yz.png" style="max-height: 120px"> 
+
 
 I am a **22** yo young, happy ~~researcher~~ PhD student who is ~~dedicating to scientific career~~ having fun with uni life xD
 
-<img src="/assets/arrowleft.png" style="max-height: 20px"> I am a good driver as you can see the photo of my ~~skillful~~ Learner driver licence :(
 
 I am interested in better understanding ~~the surface melting of Antarctic Ice Sheet~~ Who am I? Where did I come from? Where am I going?
 
