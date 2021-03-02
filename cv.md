@@ -7,7 +7,7 @@ layout: default
 <img align="left" src="/assets/yz.png" style="max-height: 120px">   
 
 
-<a href="assets/YZ_CV.pdf">Download CV</a>
+<a href="assets/Yaowen_Zheng_CV.pdf">Download CV</a>
 
 **Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
 
