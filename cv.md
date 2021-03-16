@@ -4,18 +4,17 @@ layout: default
 
 * * *
 
-<img align="left" src="/assets/yz.png" style="max-height: 120px">   
-
 
 <a href="assets/Yaowen_Zheng_CV.pdf">Download CV</a>
 
 **Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
 
-**Climate Change Research Centre, University of New South Wales, Sydney, New South Wales, Australia**
+**Research School of Earth Sciences, Australian National University, Canberra, ACT, Australia**
 
 * * *
 
 - **Former Affiliations**
+  - Climate Change Research Centre, University of New South Wales, Sydney, New South Wales, Australia
   - Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania, Australia
   - College of Oceanic and Atmospheric Sciences, Ocean University of China, Qingdao, Shandong, China
 
@@ -42,6 +41,11 @@ layout: default
 * * *
 
 ## ACADEMIC EXPERIENCE
+
+**Australian National University**
+
+    Campus Visitor, Research School of Earth Sciences
+    Feb, 2021 - Apr, 2021
 
 **University of New South Wales**
 
@@ -93,7 +97,7 @@ _Zheng, Y., Phipps, S., Roberts, J. and Jong, L.M. (2020). Extending and underst
 ## SKILLS
 
 - **Numerical Computing & Data Processing**
-  - Julia, Matlab, CDO, Ncview
+  - Julia, Matlab, CDO, Ncview, NCO
 - **Statistical Analysis & Modelling**
   - R, Matlab
 - **Data Visualization**
