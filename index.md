@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+
 * * *
-* 
-[Link to my CV](./cv.html) [project](./project.html) [usual](./usual.html)
+
+[CV](./cv.html) [project](./project.html) [usual](./usual.html)
 
 * * *
 <img align="left" src="/assets/RV001.jpg" style="max-height: 200px">  
