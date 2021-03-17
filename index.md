@@ -5,6 +5,10 @@ layout: default
 * * *
 <img align="left" src="/assets/RV001.jpg" style="max-height: 200px">  
 
+I am currently a full-time PhD student at [Antarctic Research Centre](https://www.wgtn.ac.nz/antarctic), Victoria University of Wellington. I will use satellite observations, observation-based numerical modelling, proxy-based ice core records and ice sheet mass balance simulations to better understand surface melting in Antarctica and implication for future ice sheet evolution.
+
+* * *
+
 I am a **22** yo young, happy ~~researcher~~ PhD student who is ~~dedicating to scientific career~~ having fun with uni life xD
 
 
