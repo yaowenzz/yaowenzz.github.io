@@ -4,9 +4,11 @@ layout: default
 
 * * *
 
-|                   |                         |                      |
-|:------------------|:------------------------|:---------------------|
-|[CV](./cv.html)    |[PROJECT](./project.html)| [USUAL](./usual.html)|
+|   Link                 |                       Description                                | 
+|:-----------------------|:-----------------------------------------------------------------|
+|[CV](./cv.html)         | CV can be download <a href="assets/Yaowen_Zheng_CV.pdf">here</a> | 
+[PROJECT](./project.html)| Honours project & PhD project                                    |
+|[USUAL](./usual.html)   | Badminton & travelling                                           |
 
 
 * * *
