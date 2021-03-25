@@ -6,7 +6,7 @@ layout: default
 
 |   Link                 |                       Description                                | 
 |:-----------------------|:-----------------------------------------------------------------|
-|[CV](./cv.html)         | CV can be download <a href="assets/Yaowen_Zheng_CV.pdf">here</a> | 
+|[CV](./cv.html)         | CV can be downloaded <a href="assets/Yaowen_Zheng_CV.pdf">here</a> | 
 [PROJECT](./project.html)| Honours project & PhD project                                    |
 |[USUAL](./usual.html)   | Badminton & travelling                                           |
 
