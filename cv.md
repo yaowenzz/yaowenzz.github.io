@@ -9,13 +9,13 @@ layout: default
 
 **Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand**
 
-**Research School of Earth Sciences, Australian National University, Canberra, ACT, Australia**
-
 * * *
 
 - **Former Affiliations**
-  - Climate Change Research Centre, University of New South Wales, Sydney, New South Wales, Australia
-  - Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania, Australia
+  - Department of Mechanical Engineering, University of Melbourne, Melbourne, VIC, Australia
+  - Research School of Earth Sciences, Australian National University, Canberra, ACT, Australia
+  - Climate Change Research Centre, University of New South Wales, Sydney, NSW, Australia
+  - Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, TAS, Australia
   - College of Oceanic and Atmospheric Sciences, Ocean University of China, Qingdao, Shandong, China
 
 * * *
@@ -40,7 +40,12 @@ layout: default
 
 * * *
 
-## ACADEMIC EXPERIENCE
+## EXPERIENCE
+
+**University of Melbourne**
+
+    University Guest (Non-Academic), Department of Mechanical Engineering
+    Apr, 2021 - Apr, 2021
 
 **Australian National University**
 
